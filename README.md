@@ -30,4 +30,16 @@ To start the project, install all dependencies, then run with this command:
 python3 main.py
 ```
 
+extract_dataset.py
+- Use to capture pictures for dataset
+
+train_dataset.py
+- Use to train the model
+
+convert_model.py
+- Convert Tensorflow model to Tensorflow lite model
+
+main.py
+- Live demo
+
 [DEMO](https://youtu.be/WJI-WbC1t6A)
